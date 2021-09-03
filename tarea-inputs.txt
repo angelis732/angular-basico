@@ -1,0 +1,5 @@
+1. Crear nuevo componente llamado agregar-component
+2. desde el h3 hasta el cierre del form.
+3. Mover nuevo y metodo de agregar tomar el cuenta el error de personajes
+4. Recibir con un @input personales
+5. @input nuevo se va a enviar desde el componente padre
